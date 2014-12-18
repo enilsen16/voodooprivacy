@@ -1,5 +1,6 @@
 Voodoo Privacy
 ==============
+### Set up article -- http://www.sarfata.org/posts/setting-up-an-amazon-vpn-server.md/ 
 
 Protect your computer from unsecure environment with a very strict firewall and a strong VPN through Amazon EC2.
 
